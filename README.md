@@ -34,7 +34,8 @@ The goal was to better understand profits, product performance, and customer beh
 
 - Python  
 - Pandas  
-- Matplotlib  
+- Matplotlib
+- Seaborn 
 - Google Colab
 
 
