@@ -28,6 +28,7 @@ The goal was to better understand profits, product performance, and customer beh
 - **Payment Method Sales % by State**  
   To see which payment methods are most popular across different states
 
+Data source: Sales Data.csv on Kaggle
 
 
 ## 🛠️ Technologies Used
