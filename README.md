@@ -23,7 +23,7 @@ The goal was to better understand profits, product performance, and customer beh
   To examine whether selling more items leads to higher profit
 
 - **Amount vs Profit**  
-  To explore the relationship between order amount and profit (with a regression line)
+  To explore the relationship between order amount and profit
 
 - **Payment Method Sales % by State**  
   To see which payment methods are most popular across different states
